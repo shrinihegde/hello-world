@@ -5,4 +5,6 @@ d=a-b
 e=a*b
 print('result',c)
 print('result',d)
+
 print('result',e)
+
